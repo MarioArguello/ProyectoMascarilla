@@ -5,7 +5,7 @@
 <p>A partir de la aparición del Covid-19, el mundo ha entrado en una nueva etapa, en la que se pretende
 mitigar los efectos del virus. Una de las principales medidas adoptadas por muchos países, entre ellos Ecuador, es
 el uso obligatorio de mascarillas en lugares públicos, y al mantener contacto con personas ajenas al círculo familiar.
-Es por esto que la finalidad es desarrollar un modelo en Teachable Machine, que permita realizar la detección de mascarillas en tiempo real, en el que su
+Es por esto que hemos desarrollado un modelo en Teachable Machine, que permite realizar la detección de mascarillas en tiempo real, en el que su
 principal aporte es el determinar si la persona está utilizando la mascarilla de forma apropiada. Posteriormente se
 prueba el modelo utilizando github.
 </p>
