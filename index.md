@@ -1,6 +1,7 @@
-<div>Teachable Machine Image Modelo Mascarilla</div>
+
 <div class="block-title">
-    <h3>Resumen</h3>
+  <center>  <h3>Teachable Machine Image Modelo Mascarilla</h3>
+    <h3>Resumen</h3> </center> 
 </div>
 <p>A partir de la aparición del Covid-19, el mundo ha entrado en una nueva etapa, en la que se pretende
 mitigar los efectos del virus. Una de las principales medidas adoptadas por muchos países, entre ellos Ecuador, es
