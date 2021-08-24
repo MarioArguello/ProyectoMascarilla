@@ -1,7 +1,7 @@
 
- <center> <div class="block-title">
-  <h3>Teachable Machine Image Modelo Mascarilla</h3>
-    <h3>Resumen</h3> 
+ <div class="block-title">
+  <center> <h3>Teachable Machine Image Modelo Mascarilla</h3>
+    <h3>Resumen</h3> </center> 
 </div>
 <p>A partir de la aparición del Covid-19, el mundo ha entrado en una nueva etapa, en la que se pretende
 mitigar los efectos del virus. Una de las principales medidas adoptadas por muchos países, entre ellos Ecuador, es
@@ -66,7 +66,7 @@ prueba el modelo utilizando github.
                 prediction[i].className + ": " + prediction[i].probability.toFixed(2);
             labelContainer.childNodes[i].innerHTML = classPrediction;
         }
-    }</center> 
+    }
 
                  
 
